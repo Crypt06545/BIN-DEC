@@ -1,7 +1,7 @@
 ###########################
 #                         #
 # Binary-Decimal Converter #
-#        Mahin Bin Hasan  #
+#        Mehadi Hasan #
 ###########################
 ban = """
 
